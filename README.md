@@ -2,6 +2,8 @@
 
 This repository researches test systems in programming languages.
 
+The code here includes tests written in several programming languages. Some tests include fixtures and paraterized tests.
+
 ## Go
 
 ```shell
